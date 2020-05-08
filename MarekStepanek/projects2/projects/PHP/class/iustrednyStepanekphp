@@ -1,0 +1,14 @@
+<?php
+
+ //  interface s předem určenými funkcemi, které implementuje class
+
+/**
+ *
+ * @author Marek Stepanek
+ */
+interface iustrednyStepanek {
+
+    function getNapetiStepanek(); //funkce get implementovaná
+    function setNapetiStepanek($napetiStepanek); //funkce set implementovaná
+
+}

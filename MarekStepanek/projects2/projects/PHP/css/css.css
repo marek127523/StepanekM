@@ -1,0 +1,13 @@
+body {
+	background-color: Blue;
+	font-size: 20px;
+}
+table thead {
+	background-color: Yellow;
+}
+table tr td {
+	background-color: Red;
+}
+table tfoot {
+	background-color: Olive;
+}
